@@ -8,6 +8,18 @@ Voici un exemple :
 Ceci est un bloc de code 
 ```
 
+# Code block
+pre-formatted code blocks are played to write on or highlight a programming source code. More than simple pragraphe , lines of code to a code block are interpreted literally .
+
+exemple :
+
+'''
+This is a block
+'''
+
+
+
+
 Afin de créer un bloc de code en Markdown, il suffit d'identer chaque ligne du bloc avec au moins 4 espaces ou une tabulation.
 
 Par exemple :
@@ -21,6 +33,15 @@ Ceci est un paragraphe normal:
 Vous pouvez également créer un bloc de code separé avec:
 
     ```
+
+To create a code block in Markdown , simply identer each line of the block with at least 4 spaces or a tab.
+
+exemple :
+
+'''
+this is paragraph
+'''this is a block
+
 
 ### Bloc de code en ligne
 
